@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #FF9000 !important;
+  color: #121111 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #121111;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -1111,9 +1111,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: #121111;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid #121111;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1122,10 +1122,10 @@ input[type="text"] {
 .btn-primary.btn-outline {
   background: transparent;
   color: #121111;
-  border: 2px solid #FF9000;
+  border: 2px solid #121111;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: #121111;
   color: #fff;
 }
 
@@ -1255,7 +1255,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #121111;
 }
 
 .row-pb-md {
